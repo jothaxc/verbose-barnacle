@@ -2,7 +2,7 @@
   {
     "Articulo": "BATAUTLTH013",
     "NombArticulo": "BATERIA AUTOMOTRIZ LTH",
-    "BCI": "L-22F-450",
+    "BCI": "BATCICLTH003",
     "Marca": "SUZUKI",
     "Modelo": "SIDEKICK",
     "Año": "1990",
@@ -11,7 +11,7 @@
   {
     "Articulo": "BATAUTBOSH001",
     "NombArticulo": "BATERIA BOSCH",
-    "BCI": "H6-760",
+    "BCI": "BATCICVMA003",
     "Marca": "HONDA",
     "Modelo": "CIVIC",
     "Año": "2015",
@@ -20,7 +20,7 @@
   {
     "Articulo": "BATAUTEXD007",
     "NombArticulo": "BATERIA EXIDE",
-    "BCI": "48-760",
+    "BCI": "BATESPT5G002",
     "Marca": "TOYOTA",
     "Modelo": "COROLLA",
     "Año": "2018",
@@ -29,7 +29,7 @@
   {
     "Articulo": "BATAUTOPT009",
     "NombArticulo": "BATERIA OPTIMA",
-    "BCI": "34/78-800",
+    "BCI": "BATMOTLTH006",
     "Marca": "FORD",
     "Modelo": "F-150",
     "Año": "2012",
@@ -38,7 +38,7 @@
   {
     "Articulo": "BATAUTDUR004",
     "NombArticulo": "BATERIA DURACELL",
-    "BCI": "65-850",
+    "BCI": "BATESPVMA002",
     "Marca": "CHEVROLET",
     "Modelo": "IMPALA",
     "Año": "2010",
@@ -47,7 +47,7 @@
   {
     "Articulo": "BATAUTINT005",
     "NombArticulo": "BATERIA INTERSTATE",
-    "BCI": "75-610",
+    "BCI": "BATESPT5G001",
     "Marca": "NISSAN",
     "Modelo": "ALTIMA",
     "Año": "2016",
@@ -56,7 +56,7 @@
   {
     "Articulo": "BATAUTACD008",
     "NombArticulo": "BATERIA ACDELCO",
-    "BCI": "48-700",
+    "BCI": "BATMOTLTH007",
     "Marca": "NISSAN",
     "Modelo": "SENTRA",
     "Año": "2019",
@@ -65,7 +65,7 @@
   {
     "Articulo": "BATAUTDIE010",
     "NombArticulo": "BATERIA DIEHARD",
-    "BCI": "34/78-710",
+    "BCI": "BATMOTLTH004",
     "Marca": "NISSAN",
     "Modelo": "VERSA",
     "Año": "2017",
