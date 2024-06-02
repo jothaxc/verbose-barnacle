@@ -1,0 +1,74 @@
+[
+  {
+    "Articulo": "BATAUTLTH013",
+    "NombArticulo": "BATERIA AUTOMOTRIZ LTH",
+    "BCI": "L-22F-450",
+    "Marca": "SUZUKI",
+    "Modelo": "SIDEKICK",
+    "Año": "1990",
+    "Coeficiente": "0"
+  },
+  {
+    "Articulo": "BATAUTBOSH001",
+    "NombArticulo": "BATERIA BOSCH",
+    "BCI": "H6-760",
+    "Marca": "HONDA",
+    "Modelo": "CIVIC",
+    "Año": "2015",
+    "Coeficiente": "1"
+  },
+  {
+    "Articulo": "BATAUTEXD007",
+    "NombArticulo": "BATERIA EXIDE",
+    "BCI": "48-760",
+    "Marca": "TOYOTA",
+    "Modelo": "COROLLA",
+    "Año": "2018",
+    "Coeficiente": "0"
+  },
+  {
+    "Articulo": "BATAUTOPT009",
+    "NombArticulo": "BATERIA OPTIMA",
+    "BCI": "34/78-800",
+    "Marca": "FORD",
+    "Modelo": "F-150",
+    "Año": "2012",
+    "Coeficiente": "1"
+  },
+  {
+    "Articulo": "BATAUTDUR004",
+    "NombArticulo": "BATERIA DURACELL",
+    "BCI": "65-850",
+    "Marca": "CHEVROLET",
+    "Modelo": "IMPALA",
+    "Año": "2010",
+    "Coeficiente": "0"
+  },
+  {
+    "Articulo": "BATAUTINT005",
+    "NombArticulo": "BATERIA INTERSTATE",
+    "BCI": "75-610",
+    "Marca": "NISSAN",
+    "Modelo": "ALTIMA",
+    "Año": "2016",
+    "Coeficiente": "1"
+  },
+  {
+    "Articulo": "BATAUTACD008",
+    "NombArticulo": "BATERIA ACDELCO",
+    "BCI": "48-700",
+    "Marca": "KIA",
+    "Modelo": "SPORTAGE",
+    "Año": "2019",
+    "Coeficiente": "0"
+  },
+  {
+    "Articulo": "BATAUTDIE010",
+    "NombArticulo": "BATERIA DIEHARD",
+    "BCI": "34/78-710",
+    "Marca": "HYUNDAI",
+    "Modelo": "SONATA",
+    "Año": "2017",
+    "Coeficiente": "1"
+  }
+]
