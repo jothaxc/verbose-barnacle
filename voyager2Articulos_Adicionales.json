@@ -57,8 +57,8 @@
     "Articulo": "BATAUTACD008",
     "NombArticulo": "BATERIA ACDELCO",
     "BCI": "48-700",
-    "Marca": "KIA",
-    "Modelo": "SPORTAGE",
+    "Marca": "NISSAN",
+    "Modelo": "SENTRA",
     "Año": "2019",
     "Coeficiente": "0"
   },
@@ -66,8 +66,8 @@
     "Articulo": "BATAUTDIE010",
     "NombArticulo": "BATERIA DIEHARD",
     "BCI": "34/78-710",
-    "Marca": "HYUNDAI",
-    "Modelo": "SONATA",
+    "Marca": "NISSAN",
+    "Modelo": "VERSA",
     "Año": "2017",
     "Coeficiente": "1"
   }
